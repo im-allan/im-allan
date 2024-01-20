@@ -1,6 +1,9 @@
 <h1 align="center">Hola 👋, soy Allan</h1>
 
-## Sobre mí
+<h2>Sobre mí</h2>
+- 🌱 Actualmente estoy aprendiendo Vue3, Nuxt y Next.
+- 💬 Puedes pregutarme sobre JavaScript, TypeScript o React.
+<h2>Habilidades</h2>
 <!--
 **im-allan/im-allan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
