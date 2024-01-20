@@ -4,7 +4,7 @@
 
 *  ✍️ Actualmente estoy aprendiendo Vue3, Nuxt y Next.
 *  🙋‍♂️ Estoy buscando colaborar en un proyecto en el que trabajar que me permita usar mis habilidades en back-end y front-end
-* 💬 Puedes pregutarme sobre JavaScript, TypeScript o React.
+* 💬 Puedes pregutarme sobre JavaScript, TypeScript y React.
 * 💻 Visita mi portafolio
 <h2>Habilidades</h2>
 <!--
