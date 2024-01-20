@@ -1,3 +1,5 @@
+<p align="center">Este texto está centrado</p>
+
 # Hola 👋, soy Allan
 
 ## Sobre mí
