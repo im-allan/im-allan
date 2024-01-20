@@ -1,6 +1,4 @@
-<p align="center">Este texto está centrado</p>
-
-# Hola 👋, soy Allan
+<h1 align="center">Hola 👋, soy Allan</h1>
 
 ## Sobre mí
 <!--
