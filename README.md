@@ -2,9 +2,10 @@
 
 <h2>Sobre mí</h2>
 
-* 🌱 Actualmente estoy aprendiendo Vue3, Nuxt y Next.
-  
+*  ✍️ Actualmente estoy aprendiendo Vue3, Nuxt y Next.
+*  🙋‍♂️ Estoy buscando colaborar en un proyecto en el que trabajar que me permita usar mis habilidades en back-end y front-end
 * 💬 Puedes pregutarme sobre JavaScript, TypeScript o React.
+* 💻 Visita mi portafolio
 <h2>Habilidades</h2>
 <!--
 **im-allan/im-allan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
