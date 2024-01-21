@@ -9,7 +9,7 @@
 * 💻 Visita mi portafolio.
 <h2>Habilidades</h2>
 
-<h2>Contáctame</h2>
+<h2>Contacto</h2>
 <!--
 **im-allan/im-allan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
