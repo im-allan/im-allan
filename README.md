@@ -8,7 +8,6 @@
 * 💡 Explorando nuevas tecnologías y desarrollando conocimientos de programación.
 * 💻 Visita mi portafolio.
 <h2>Habilidades</h2>
-     
 
 <h2>Contacto</h2>
 <!--
