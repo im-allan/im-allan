@@ -13,7 +13,7 @@
 * 💬 Puedes pregutarme sobre JavaScript, TypeScript y React.
 * 💡 Explorando nuevas tecnologías y desarrollando conocimientos de programación.
 * 💻 Visita mi portafolio.
-<h2>Habilidades</h2>
+<h2>Skills</h2>
 
 
 
