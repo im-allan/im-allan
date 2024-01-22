@@ -1,7 +1,7 @@
 <h1 align="center">Hola, soy Allan</h1>
 <section align="center" style="gap: 2">
-  <img height="10px" src="https://i.ibb.co/fM5k7yQ/codepen-plain.png" alt="codepen-plain" border="0">
-  <img height="10px" src="https://i.ibb.co/WnjtJxS/linkedin-original.png" alt="linkedin-original" border="0">
+  <img height="30px" src="https://i.ibb.co/fM5k7yQ/codepen-plain.png" alt="codepen-plain" border="0">
+  <img height="30px" src="https://i.ibb.co/WnjtJxS/linkedin-original.png" alt="linkedin-original" border="0">
 </section>
 
 <h2>Sobre mí</h2>
