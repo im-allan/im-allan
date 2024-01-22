@@ -12,6 +12,7 @@
 * 🌍  I'm based in Chile
 * 🖥️  See my portfolio at [here](dummy)
 * 🧠  I'm learning Angular
+* 🚀  I'm currently working on [abc](http://abc.com)
 * 🤝  I'm open to collaborating on new challenges
 * 💬  Feel free to ask me anything on JavaScript, TypeScript, and React
 
