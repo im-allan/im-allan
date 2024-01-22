@@ -1,4 +1,5 @@
-<h1 align="center">Hola, soy Allan</h1>
+<h1 align="center">Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif), I'm Allan</h1>
+
 <section align="center" style="gap: 2">
   <a href="https://codepen.io/im-allan" target="_blank"><img height="25px" title="Codepen" alt="Codepen logo" src="https://i.ibb.co/qxRk5gV/codepen-plain.png" alt="codepen-plain" border="0"></a>
   <a href="https://www.linkedin.com/in/im-allan/" target="_blank"><img height="25px" title="LinkedIn" alt="LinkedIn logo" src="https://i.ibb.co/WnjtJxS/linkedin-original.png" alt="linkedin-original" border="0"></a>
