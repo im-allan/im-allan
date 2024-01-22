@@ -1,6 +1,6 @@
 <h1 align="center">Hola, soy Allan</h1>
 <section>
-  <img src="https://ibb.co/Q6TMbf1">
+  <img src="https://i.ibb.co/dQVDWrz/Linked-In-icon-svg.png" alt="LinkedIn Logo" border="0">
 </section>
 
 <h2>Sobre mí</h2>
