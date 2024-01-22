@@ -1,5 +1,5 @@
 <h1 align="center">Hey there, I'm Allan</h1>
-<p align="center">Web Developer</p>
+<p align="center">Web Developer and Freelancer</p>
 
 <section align="center" style="gap: 2">
   <a href="https://codepen.io/im-allan" target="_blank"><img height="25px" title="Codepen" alt="Codepen logo" src="https://i.ibb.co/qxRk5gV/codepen-plain.png" alt="codepen-plain" border="0"></a>
@@ -9,11 +9,12 @@
 
 <h2>About Me</h2>
 
-* ✍️ Actualmente estoy aprendiendo Vue3, Nuxt y Next.
-* 🙋‍♂️ Estoy buscando colaborar en un proyecto que me permita usar mis habilidades en Back-End y Front-End
-* 💬 Puedes pregutarme sobre JavaScript, TypeScript y React.
-* 💡 Explorando nuevas tecnologías y desarrollando conocimientos de programación.
-* 💻 Visita mi portafolio.
+* 🌍  I'm based in Chile
+* 🖥️  See my portfolio at [here](dummy)
+* 🧠  I'm learning Vue3 and Angular
+* 🤝  I'm open to collaborating on new challenges
+* 💬  Feel free to ask me anything on JavaScript, TypeScript, and React
+
 <h2>Skills</h2>
 
 
