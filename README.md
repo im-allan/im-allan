@@ -2,8 +2,8 @@
 
 <h2>Sobre mí</h2>
 
-*  ✍️ Actualmente estoy aprendiendo Vue3, Nuxt y Next.
-*  🙋‍♂️ Estoy buscando colaborar en un proyecto que me permita usar mis habilidades en back-end y front-end
+* ✍️ Actualmente estoy aprendiendo Vue3, Nuxt y Next.
+* 🙋‍♂️ Estoy buscando colaborar en un proyecto que me permita usar mis habilidades en Back-End y Front-End
 * 💬 Puedes pregutarme sobre JavaScript, TypeScript y React.
 * 💡 Explorando nuevas tecnologías y desarrollando conocimientos de programación.
 * 💻 Visita mi portafolio.
