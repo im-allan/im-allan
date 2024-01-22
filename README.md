@@ -1,8 +1,8 @@
 <h1 align="center">Hola, soy Allan</h1>
 <section align="center" style="gap: 2">
-  <a href="https://codepen.io/im-allan" target="_blank"><img height="30px" title="Codepen" alt="Codepen logo" src="https://i.ibb.co/fM5k7yQ/codepen-plain.png" alt="codepen-plain" border="0"></a>
-  <a href="https://www.linkedin.com/in/im-allan/" target="_blank"><img height="30px" title="LinkedIn" alt="LinkedIn logo" src="https://i.ibb.co/WnjtJxS/linkedin-original.png" alt="linkedin-original" border="0"></a>
-  <a href="https://www.kaggle.com/allanqs" target="_blank"><img height="30px" title="Kaggle" alt="Kaggle logo" src="https://i.ibb.co/N6pmJsH/kaggle-original.png" alt="linkedin-original" border="0"></a>
+  <a href="https://codepen.io/im-allan" target="_blank"><img height="25px" title="Codepen" alt="Codepen logo" src="https://i.ibb.co/fM5k7yQ/codepen-plain.png" alt="codepen-plain" border="0"></a>
+  <a href="https://www.linkedin.com/in/im-allan/" target="_blank"><img height="25px" title="LinkedIn" alt="LinkedIn logo" src="https://i.ibb.co/WnjtJxS/linkedin-original.png" alt="linkedin-original" border="0"></a>
+  <a href="https://www.kaggle.com/allanqs" target="_blank"><img height="25px" title="Kaggle" alt="Kaggle logo" src="https://i.ibb.co/N6pmJsH/kaggle-original.png" alt="linkedin-original" border="0"></a>
 </section>
 
 <h2>Sobre mí</h2>
