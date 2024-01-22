@@ -21,9 +21,9 @@ Recent graduate in Computer Science with a passion for web development. I have e
 <h2>Socials</h2>
 
 <section style="gap: 2">
-  <a href="https://codepen.io/im-allan" target="_blank"><img height="25px" title="Codepen" alt="Codepen logo" src="https://i.ibb.co/qxRk5gV/codepen-plain.png" alt="codepen-plain" border="0"></a>
-  <a href="https://www.linkedin.com/in/im-allan/" target="_blank"><img height="25px" title="LinkedIn" alt="LinkedIn logo" src="https://i.ibb.co/WnjtJxS/linkedin-original.png" alt="linkedin-original" border="0"></a>
-  <a href="https://www.kaggle.com/allanqs" target="_blank"><img height="25px" title="Kaggle" alt="Kaggle logo" src="https://i.ibb.co/N6pmJsH/kaggle-original.png" alt="linkedin-original" border="0"></a>
+  <a href="https://codepen.io/im-allan" target="_blank"><img width="36" height="36" title="Codepen" alt="Codepen logo" src="https://i.ibb.co/qxRk5gV/codepen-plain.png" alt="codepen-plain" border="0"></a>
+  <a href="https://www.linkedin.com/in/im-allan/" target="_blank"><img width="36" height="36" title="LinkedIn" alt="LinkedIn logo" src="https://i.ibb.co/WnjtJxS/linkedin-original.png" alt="linkedin-original" border="0"></a>
+  <a href="https://www.kaggle.com/allanqs" target="_blank"><img width="36" height="36" title="Kaggle" alt="Kaggle logo" src="https://i.ibb.co/N6pmJsH/kaggle-original.png" alt="linkedin-original" border="0"></a>
 </section>
 
 
