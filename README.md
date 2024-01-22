@@ -1,5 +1,5 @@
 <h1 align="center">Hey there, I'm Allan</h1>
-<small style="margin-auto" >Web Developer</small>
+<p align="center">Web Developer</p>
 
 <section align="center" style="gap: 2">
   <a href="https://codepen.io/im-allan" target="_blank"><img height="25px" title="Codepen" alt="Codepen logo" src="https://i.ibb.co/qxRk5gV/codepen-plain.png" alt="codepen-plain" border="0"></a>
