@@ -1,6 +1,6 @@
+<h1 align="center">Hola, soy Allan</h1>
 <section>
-  <h1 align="center">Hola, soy Allan</h1>
-  <p align="center">a b c</p>
+  <img src="https://ibb.co/Q6TMbf1">
 </section>
 
 <h2>Sobre mí</h2>
