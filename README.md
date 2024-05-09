@@ -6,7 +6,7 @@
 Recent graduate in Computer Science with a passion for web development. I have experience with React, Node, and other web technologies. I am always looking to learn new technologies and I am excited about the future of technology. 
 
 * 🌍  I'm based in Chile
-* 🖥️  See my portfolio at [here](dummy)
+* 🖥️  See my portfolio at [here](https://allan.pages.dev/)
 * 🧠  I'm learning Angular 
 * 🚀  I'm currently working on [dummy](http://dummy-dummy.com)
 * 🤝  I'm open to collaborating on new challenges
